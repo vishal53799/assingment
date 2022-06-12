@@ -1,5 +1,5 @@
-# assingment
-/Q1
+# assingment -1
+//Q1
 #include <stdio.h>
 #include <string.h>
  
